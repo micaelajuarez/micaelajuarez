@@ -9,7 +9,7 @@
 - 🌖 Warning: at any chance given to discuss any such topics, my nerd mode will commence activation and you'll wish you were Van Gogh so as to not have to listen to me anymore XD. 
 - 🌗 Don't say I didn't warn you.
 - 🌘 Currently on a quest to win a paid Kaggle competition (Don't ask lol (
-<a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNzMGVrMzB0ZGoxY3NldDZwcXdjbTZ2MXV0aDdzcXByMnJsNWs3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a3HwA77QREoo/giphy.gif">What, like it's hard?</a> XD (A girl can dream))).
+<a href="https://tenor.com/bu8yK.gif">What, like it's hard?</a> XD (A girl can dream))).
 - 🌑 I guess my spirit animal is Doc Brown from Back to the Future.
 
 ### Links
