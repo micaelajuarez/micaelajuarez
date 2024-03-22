@@ -3,7 +3,7 @@
 ### About me
 - 🌑 Theoretical-physics uni student.
 - 🌒 Software & data engineer (ex Google).
-- 🌓 Currently on a bit of career a break, focusing on academia & my own research projects.
+- 🌓 Currently on a bit of a career break, focusing on academia & my own research projects.
 - 🌔 Some current <s>obsessions</s> totally-calm interests include: objective-collapse QM theories & differential topology.
 - 🌕 Feel free to reach out to me about any of these if you're also interested, you'll be doing me a favour :P
 - 🌖 Warning: at any chance given to discuss any such topics, my nerd mode will commence activation and you'll wish you were Van Gogh so as to not have to listen to me anymore XD. 
