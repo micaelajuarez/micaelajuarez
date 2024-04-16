@@ -17,5 +17,3 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micaelajuarez/)](https://www.linkedin.com/in/micaelajuarez/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/pastelitodelimon)](https://www.kaggle.com/pastelitodelimon)
 [![🍋](https://img.shields.io/badge/-🍋-black?style=flat&link=https://media1.tenor.com/m/dF2aG56MTVoAAAAC/lemon-cakes-game-of-thrones.gif)](https://media1.tenor.com/m/dF2aG56MTVoAAAAC/lemon-cakes-game-of-thrones.gif)
-
-[![Visits Badge](https://badges.pufler.dev/visits/micaelajuarez/micaelajuarez)](https://badges.pufler.dev)
