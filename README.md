@@ -12,8 +12,4 @@
 <a href="https://media1.tenor.com/m/01xiZctBvl0AAAAC/legally-legallyblonde.gif">What, like it's hard?</a> XD (A girl can dream))).
 - 🌑 I guess my spirit animal is Doc Brown from Back to the Future.
 
-### Links
-[![Email](https://img.shields.io/badge/-Email-white?style=flat&link=mailto:micaelamjuarez@pm.me)](mailto:micaelamjuarez@pm.me)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micaelajuarez/)](https://www.linkedin.com/in/micaelajuarez/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/pastelitodelimon)](https://www.kaggle.com/pastelitodelimon)
 [![🍋](https://img.shields.io/badge/-🍋-black?style=flat&link=https://media1.tenor.com/m/dF2aG56MTVoAAAAC/lemon-cakes-game-of-thrones.gif)](https://media1.tenor.com/m/dF2aG56MTVoAAAAC/lemon-cakes-game-of-thrones.gif)
